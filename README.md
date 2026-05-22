@@ -215,4 +215,4 @@ Aspiring Data Analyst passionate about data visualization, business analytics, a
 Connect with me on LinkedIn.
 www.linkedin.com/in/vigneshtripathi
 
-Snapshot of project : https://github.com/Vignesh-hub107/BlinkIT-Sales-Analysis/blob/main/Images/Full_img.png
+Snapshot of project : ![Dashboard Preview].(https://github.com/Vignesh-hub107/BlinkIT-Sales-Analysis/blob/main/Images/Full_img.png)
